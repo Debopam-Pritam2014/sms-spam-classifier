@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+new_app.py
+tfidf_vectorizer.pkl
 # Distribution / packaging
 .Python
 build/
